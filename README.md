@@ -1,0 +1,2 @@
+# MIQ
+Median InterQuartile value
