@@ -1,0 +1,2 @@
+Prefix plugins/MIQ/example
+Plugin MIQ inputfile abundance.csv outputfile abundance.MIQ.tsv
